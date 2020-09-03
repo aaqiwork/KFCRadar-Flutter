@@ -12,6 +12,6 @@ We design two pages one is the home page and another one is details page that wi
 ### Food App Final UI
 
 ### Home Page
-![App UI](/ss1.png|width=250px)
+![App UI](/ss1.png | width=250px)
 ### Detail Page
-![App UI](/ss2.png|width=250px)
+![App UI](/ss2.png | width=250px)
