@@ -1,6 +1,6 @@
-# Food Ordering App - Flutter UI
+# KFC Food Ordering App - Flutter UI
 
-## [Watch it on YouTube](https://youtu.be/F0ujC60wHwc)
+
 
 **Packages we are using:**
 
@@ -11,4 +11,7 @@ We design two pages one is the home page and another one is details page that wi
 
 ### Food App Final UI
 
-![App UI](/ui.png)
+### Home Page
+![App UI](/ss1.png)
+### Detail Page
+![App UI](/ss2.png)
