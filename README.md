@@ -12,5 +12,5 @@ We design two pages one is the home page and another one is details page that wi
 ### Food App Final UI
 
 ### Page Designs
-<img src="/ss1.png" width="300" />     <img src="/ss2.png" width="300" />  <img src="/ss3.png" width="300" />
+<img src="/ss1.png" width="300" />     <img src="/ss2.png" width="300" />  <img src="/ss3.png" width="350" />
 
